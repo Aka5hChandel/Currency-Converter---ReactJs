@@ -49,6 +49,7 @@ function App() {
                 onAmountChange={(amount) => setAmount(amount)}
               />
             </div>
+            {/* section 2 */}
             <div className="relative w-full h-0.5">
               <button
                 type="button"
