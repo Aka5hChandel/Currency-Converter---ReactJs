@@ -1,4 +1,9 @@
-# React + Vite
+<h1 align="center">Currency Converter</h1>
+
+<h3 align="center">Create currency converter web app using React + Vite Js </h3>
+
+![currency_convert](https://github.com/Aka5hChandel/Currency-Converter---ReactJs/assets/155255568/5c8b1368-5d5e-4da6-a6f8-086fa0f4174d)
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
